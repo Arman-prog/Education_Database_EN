@@ -5,9 +5,9 @@ GO
 CREATE DATABASE [EducationDB]
  CONTAINMENT = NONE
  ON  PRIMARY 
-( NAME = N'Education', FILENAME = N'C:\Users\arami\OneDrive\Documents\SQL\EducationDB\EducationDB.mdf' , SIZE = 10MB , MAXSIZE = 100MB, FILEGROWTH = 1024KB )
+( NAME = N'Education', FILENAME = N'ENTER DIRECTION HERE \EducationDB.mdf' , SIZE = 10MB , MAXSIZE = 100MB, FILEGROWTH = 1024KB )
  LOG ON 
-( NAME = N'Education_log', FILENAME = N'C:\Users\arami\OneDrive\Documents\SQL\EducationDB\EducationDB.ldf' , SIZE = 1024KB , MAXSIZE = 50MB , FILEGROWTH = 10%)
+( NAME = N'Education_log', FILENAME = N'ENTER DIRECTION HERE \EducationDB.ldf' , SIZE = 1024KB , MAXSIZE = 50MB , FILEGROWTH = 10%)
 GO
 
 USE [EducationDB]
