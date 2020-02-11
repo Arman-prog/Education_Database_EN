@@ -55,4 +55,6 @@ INSERT INTO [dbo].[Teacher_University] ([Id], [TeacherId], [UniversityId], [Star
 INSERT INTO [dbo].[Teacher_University] ([Id], [TeacherId], [UniversityId], [StartDate], [EndDate], [Hour]) VALUES (4, 3, 3, N'2020-02-05', NULL, 20)
 INSERT INTO [dbo].[Teacher_University] ([Id], [TeacherId], [UniversityId], [StartDate], [EndDate], [Hour]) VALUES (5, 3, 2, N'2019-09-12', NULL, 15)
 INSERT INTO [dbo].[Teacher_University] ([Id], [TeacherId], [UniversityId], [StartDate], [EndDate], [Hour]) VALUES (6, 4, 4, N'2019-10-12', NULL, 25)
+INSERT INTO [dbo].[Teacher_University] ([Id], [TeacherId], [UniversityId], [StartDate], [EndDate], [Hour]) VALUES (7, 2, 7, N'2019-10-12', NULL, 15)
+INSERT INTO [dbo].[Teacher_University] ([Id], [TeacherId], [UniversityId], [StartDate], [EndDate], [Hour]) VALUES (8, 5, 8, N'2019-10-12', NULL, 20)                                                                                                    
 SET IDENTITY_INSERT [dbo].[Teacher_University] OFF
